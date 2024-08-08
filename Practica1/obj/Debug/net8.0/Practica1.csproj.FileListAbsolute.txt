@@ -1,0 +1,15 @@
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/bin/Debug/net8.0/Practica1
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/bin/Debug/net8.0/Practica1.deps.json
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/bin/Debug/net8.0/Practica1.runtimeconfig.json
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/bin/Debug/net8.0/Practica1.dll
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/bin/Debug/net8.0/Practica1.pdb
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/obj/Debug/net8.0/Practica1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/obj/Debug/net8.0/Practica1.AssemblyInfoInputs.cache
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/obj/Debug/net8.0/Practica1.AssemblyInfo.cs
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/obj/Debug/net8.0/Practica1.csproj.CoreCompileInputs.cache
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/obj/Debug/net8.0/Practica1.sourcelink.json
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/obj/Debug/net8.0/Practica1.dll
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/obj/Debug/net8.0/refint/Practica1.dll
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/obj/Debug/net8.0/Practica1.pdb
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/obj/Debug/net8.0/Practica1.genruntimeconfig.cache
+/Users/lucademinas/Desktop/Programacion 3/Practica 1/Practica1-Cs/Practica1/obj/Debug/net8.0/ref/Practica1.dll
